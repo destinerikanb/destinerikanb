@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destinerikanb
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Go-Lang, Spring Boot and Node.js
+- 🌱 I’m currently learning Automation Testing using Java
 - 💞️ I’m looking to collaborate on any interesting software development or programming project
 - 📫 How to reach me : linkedin.com/in/destinerikanb/
 
