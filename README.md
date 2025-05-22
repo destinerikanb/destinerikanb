@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @destinerikanb
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Automation Testing using Java
-- 💞️ I’m looking to collaborate on any interesting software development or programming project
-- 📫 How to reach me : linkedin.com/in/destinerikanb/
+# Hi there 👋 I'm Destin Erika NB
 
-<!---
-destinerikanb/destinerikanb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 QA Engineer with 3 years experience  
+💻 Currently focusing on Go backend development  
+🔧 Languages: Java, Go, Python, C  
+🌐 Looking for remote backend developer roles
+
+## 🛠️ Tech Stack
+- Programming: Go, Java, Python, C
+- Tools: Git, Docker, Postman, PostgreSQL
+- QA Tools: JMeter, Selenium, Manual Testing
+
+## 📂 Featured Projects
+- [go-todo-api](https://github.com/destinerikanb/go-todo-api): RESTful API with PostgreSQL & Docker
+- [qa-automation-java](https://github.com/destinerikanb/selenium-web-login): Selenium Test Automation with Java & TestNG
+
+📫 Reach me at: destinerikanb@gmail.com
+
