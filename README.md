@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 - Programming: Go, Java, Python, C
 - Tools: Git, Docker, Postman, PostgreSQL
-- QA Tools: JMeter, Selenium, Manual Testing
+- QA Tools: TestNG, Selenium, Manual Testing
 
 ## 📂 Featured Projects
 - [go-todo-api](https://github.com/destinerikanb/go-todo-api): RESTful API with PostgreSQL & Docker
